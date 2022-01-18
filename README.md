@@ -1,1 +1,1 @@
-# busiinesscategory
+# businesscategory
